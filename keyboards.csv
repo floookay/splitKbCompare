@@ -34,6 +34,7 @@ minidox,36,36,Minidox,1,0,,3,Moderate,0,0,0,0,1,1,https://github.com/dotdash32/C
 mitosis,46,46,Mitosis,1,0,,3,Aggressive,0,0,1,0,1,0,https://github.com/joric/mitosis-hardware/tree/joric_kicad,NA
 moonlander,72,72,Moonlander,1,1,,5,Moderate,0,0,0,0,0,1,NA,https://www.zsa.io/moonlander/
 nyquist,60,60,Nyquist,1,1,,5,None,0,0,0,0,1,0,https://github.com/keebio/nyquist-case,https://keeb.io/products/nyquist-keyboard
+pluckey,66,68,Pluckey,1,1,0,5,Moderate,0,1,0,0,1,0,https://github.com/floookay/pluckey,NA
 pteron,38,56,Pteron,1,1,0,4,Agressive,0,0,0,1,1,0,https://github.com/FSund/pteron-keyboard,NA
 pteron36,36,36,Pteron 36,1,0,0,3,Agressive,0,0,0,0,1,0,https://github.com/harshitgoel96/pteron36-split-keyboard,NA
 quefrency_rev1,63,72,Quefrency R1,1,1,,5,None,1,0,0,0,1,0,https://github.com/keebio/quefrency-case,https://keeb.io/products/quefrency-60-65-split-staggered-keyboard
